@@ -3,6 +3,7 @@ Com esse simples programa podemos simular a criação e gerencia de um departame
 
 ## É Usado:
 [JDK](https://www.oracle.com/br/java/technologies/downloads/#java21)
+
 [VSCode](https://code.visualstudio.com/Download)
 
 ## Como Executar:
