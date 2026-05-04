@@ -1,5 +1,5 @@
 # Sistema de Cadastro de Funcionários
-Com esse simples programa podemos simular a criação e gerencia de um departamento e seus funcionários
+Com esse simples programa podemos simular a criação e gerenciamento de um departamento e seus funcionários
 
 ## É Usado:
 [JDK](https://www.oracle.com/br/java/technologies/downloads/#java21)
